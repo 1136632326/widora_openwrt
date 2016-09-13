@@ -1,0 +1,49 @@
+[33m make[1] world[m
+[33m make[2] package/cleanup[m
+[33m make[2] target/compile[m
+[33m make[3] -C target/linux compile[m
+[33m make[2] package/compile[m
+[33m make[3] -C package/system/usign host-compile[m
+[33m make[3] -C package/system/opkg host-compile[m
+[33m make[3] -C package/libs/toolchain compile[m
+[33m make[3] -C package/libs/ncurses host-compile[m
+[33m make[3] -C package/kernel/drv_regopt compile[m
+[33m make[3] -C package/kernel/gpio-button-hotplug compile[m
+[33m make[3] -C package/libs/libnl-tiny compile[m
+[33m make[3] -C package/libs/libjson-c compile[m
+[33m make[3] -C package/utils/lua compile[m
+[33m make[3] -C package/libs/ncurses compile[m
+[33m make[3] -C package/libs/zlib compile[m
+[33m make[3] -C package/libs/ocf-crypto-headers compile[m
+[33m make[3] -C package/network/utils/wireless-tools compile[m
+[33m make[3] -C package/libs/lzo compile[m
+[33m make[3] -C package/firmware/linux-firmware compile[m
+[33m make[3] -C package/network/services/dropbear compile[m
+[33m make[3] -C package/network/utils/linux-atm compile[m
+[33m make[3] -C package/network/utils/resolveip compile[m
+[33m make[3] -C package/libs/libpcap compile[m
+[33m make[3] -C package/libs/polarssl compile[m
+[33m make[3] -C package/network/utils/maccalc compile[m
+[33m make[3] -C package/utils/busybox compile[m
+[33m make[3] -C package/libs/openssl compile[m
+[33m make[3] -C package/utils/util-linux compile[m
+[33m make[3] -C package/libs/libubox compile[m
+[33m make[3] -C package/kernel/linux compile[m
+[33m make[3] -C package/system/opkg compile[m
+[33m make[3] -C package/shairport_mmap compile[m
+[33m make[3] -C package/system/uci compile[m
+[33m make[3] -C package/system/ubus compile[m
+[33m make[3] -C package/utils/jsonfilter compile[m
+[33m make[3] -C package/system/usign compile[m
+[33m make[3] -C package/libs/ustream-ssl compile[m
+[33m make[3] -C package/system/mtd compile[m
+[33m make[3] -C package/utils/ubi-utils compile[m
+[33m make[3] -C package/mtk-sdk-wifi compile[m
+[33m make[3] -C package/network/utils/iwinfo compile[m
+[33m make[3] -C package/network/config/swconfig compile[m
+[33m make[3] -C package/reg compile[m
+[33m make[3] -C package/system/ubox compile[m
+[33m make[3] -C package/network/services/hostapd compile[m
+[33m make[3] -C package/network/services/odhcpd compile[m
+[33m make[3] -C package/network/services/uhttpd compile[m
+[33m make[3] -C package/network/config/netifd compile[m
